@@ -11,7 +11,7 @@ int main() {
     printf("%s, введи свои HP: ", studentName); // Запрос значения HP 
     scanf("%d", &hp);
 
-    printf("%s, введи свою ману: ", studentName); // Запрос значения Маны
+    printf("%s, введи свою Ману: ", studentName); // Запрос значения Маны
     scanf("%f", &mana);
 
     printf("%s, у тебя HP = %d, Мана = %.2f\n", studentName, hp, mana);
